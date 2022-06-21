@@ -34,6 +34,9 @@ body {
 
 .header div ul {
     list-style-type: none;
+    position: relative;
+    Top: -20px;
+    left: 100px;
 }
 
 .header div ul li {
@@ -41,9 +44,7 @@ body {
     margin-left: 25px;
 }
 
-#meeting {
-    object-fit: cover;
-}
+
 
 a {
     color: #ffffff;
