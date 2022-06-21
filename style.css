@@ -41,6 +41,10 @@ body {
     margin-left: 25px;
 }
 
+#meeting {
+    object-fit: cover;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
