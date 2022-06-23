@@ -5,5 +5,5 @@ Description: For this assignment I applied proper html semantic elements to the 
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/102045473/175319690-956fd65c-7f45-4fdd-9b5d-265cefc1ab5b.png)
 
-click [here](www.github.com/file:///C:/Users/Michael%20Khiabani/Documents/GitHub/challenge-1/index.html) to check out my page
+
 
