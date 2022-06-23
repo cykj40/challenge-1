@@ -5,6 +5,5 @@ Description: For this assignment I applied proper html semantic elements to the 
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/102045473/175319690-956fd65c-7f45-4fdd-9b5d-265cefc1ab5b.png)
 
-Click [here](https://github.com/cykj40/challenge-1/blob/main/index.html) to check out my HTML
 
 
