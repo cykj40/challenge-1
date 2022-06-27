@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* sets the background color of the entire body */
 body {
     background-color: #d9dcd6;
 }
-
+/* adds css to the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,7 +54,8 @@ a {
 p {
     font-size: 16px;
 }
-
+/* class elements */
+/* had to update the file path */
 .hero {
     height: 800px;
     width: 100%;
@@ -192,7 +193,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* adds css to the footer */
 .footer {
     padding: 30px;
     clear: both;
